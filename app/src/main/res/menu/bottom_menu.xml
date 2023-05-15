@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    메뉴에 이미지를 넣고 싶을때는 타이틀을 비우고 icon에 이미지를 넣가-->
+    <item
+        android:title=""
+        android:icon="@drawable/home"
+        android:enabled="true"
+        android:id="@+id/menu_home"
+        />
+    <item
+        android:title="자기주도"
+        android:enabled="true"
+        android:id="@+id/menu_1"
+        />
+    <item
+        android:title="학습"
+        android:enabled="true"
+        android:id="@+id/menu_2"
+        />
+    <item
+        android:title="입니다"
+        android:enabled="true"
+        android:id="@+id/menu_3"
+        />
+</menu>
