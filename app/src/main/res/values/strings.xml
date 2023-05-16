@@ -2,4 +2,6 @@
     <string name="app_name">Self Study</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kakao_native_app_key">0ee37738e42230ff5db6197a82c9eab9</string>
+    <string name="kakao_redirection_scheme">kakao0ee37738e42230ff5db6197a82c9eab9</string>
 </resources>
